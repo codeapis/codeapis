@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeapis
+- 👋 Hi, I’m Apis
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript & React.js
 - 💞️ I’m looking to collaborate on Web Devs Journey especially FrontEnd
